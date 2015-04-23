@@ -69,6 +69,6 @@ context:
     my ($foo) = function();
     my ($foo,@the_rest) = function();
 
-Remember, context is determined by the left side of an assignment!
+__Remember, context is determined by the left side of an assignment!__
 
 
